@@ -1,0 +1,151 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Teletica.png" group-title="GSE NO GROUP", Teletica
+https://stream-04.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO55JJN-xxwZfPkRY2-AK3s6A)/dm/3/x29e3wg/s/live-2.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/LogoRepretelC6.png" group-title="GSE NO GROUP", Repretel Canal 6
+https://cr-repretel-canal6-app-2xtaqe-live-0-cdn-0.ned.media/repretel/canal6/smil:live.smil/chunklist_b1248000.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.repretel.com/files/2019/04/04/11-logo%20grande.png" group-title="GSE NO GROUP", Repretel Canal 11
+https://cr-repretel-canal6-app-2xtaqe-live-0-cdn-0.ned.media/repretel/canal11/smil:live.smil/chunklist_b1248000.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/TCRT_2017_Costa_Rica.png" group-title="GSE NO GROUP", Canal 13 Sinart
+https://player-api.new.livestream.com/accounts/1532727/events/8717137/broadcasts/209378324.secure.m3u8?dw=80&hdnea=st=1596402153~exp=1596403953~acl=/i/1532727_8717137_lsiit9977zme6tyy3mt_1@23175/*~hmac=9e6938211da79bab5a1d7b13ea055ae98c2a2d3b6d6ff926bc827dd0b9144e2d&token=5f272b15_56b2c5de62ed89842b6687b379e9bcd787a82aa0
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://costaricatelevision.com/sites/default/files/styles/og_image/public/2020-07/Repretel-Canal-4-Costa-Rica.png?itok=Jl2_46FS" group-title="GSE NO GROUP", Canal 4 Repretel
+https://cr-repretel-canal4-live.ned.media/repretel/canal4/smil:live.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTk2NDk0NjEyLCJzZXNzaW9uIjoiMjAwLjE5Mi4yMzkuMjQ2Iiwid2hpdGVsaXN0IjpbIjIwMC4xOTIuMjM5LjI0NiJdfSwic2lnbmF0dXJlIjoiOGU3YjZmZTVkYjRkNTVmZDg2MmUyMWJiYzcyZTBiMTc3ZTM5NzJiYiJ9
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Repretel_logo.svg/1200px-Repretel_logo.svg.png" group-title="GSE NO GROUP", Canal 2
+https://cootv.cootel.com.ni/streams/d/SSLCH02-SD-YLC/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Multimedios
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Fox
+http://premiumplustv.xyz:25461/dalvarez/UxUuTfE2XG/1207
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Bob Esponja 24/7
+http://62.210.202.9:25461/dalvarez/UxUuTfE2XG/3662?token=TBdRBxBZRAoVUwYCBwcMBwECCQhUBgEFU1dWAwAGBlAEB1gAUQQEBwAVGkFEQUZTWFtuUFFBAlAGVVYdFUFEUEVqUAJBC0QBAgEHVAINFhobQlhUUEECUgVaUgUGBAUDBxkbFgpVRAoVAwNQAAYWGhtTSU1QEVYCXDwAVEFdVFAVD1cTD11KElhZaQdSWFVYXRQLGwVBFEFZEBQTDVpCWVsZGwQKRRRRQ1IUWRUCBwMbGhNaWhZWF0IaRgsVd2UXGxdcHhdUCENeWFhBDRdARRsaE1BGPEoGQxcWVFZZUkcVDxtWQR1EXVZPaQBYW1pTWkJYVlsQGlkSUEYdFVlYW15BVhQ8QQ9UFQ0UUgADBwYbSw==
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Space HD
+http://23.237.102.34:25461/dalvarez/UxUuTfE2XG/1260?token=TBdRBxBZRAoVVQUAVlYBVV9VAAFQUgECUlEGUgUDDlBTBVgEVAVTAVEVGkFEQUZTWFtuUFFBAlICVVQdFUFEUEVqUAJBC0QBAgEHVAINFhobQlhUUEECUgVaUgUGBAYABhkbFgpVRAoVBgFTDgQWGhtTSU1QEVYCXDwAVEFdVFAVD1cTD11KElhZaQdSWFVYXRQLGwVBFEFZEBQTDVpCWVsZGwQKRRRRQ1IUWRUEBgMKFB0bVgxNDUQRHRMNFnRnFRkbAxtFA15EXlkNFQ8WQkoUHRtcEGcRVRAQQ1JVWlBFFwNEUxNKElpWTjxUWlpYXFVFUFoNS0EKQVcTGxZaWllcTQkRbhZZUxUMQQQNDQcBFEw=
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TNT HD
+http://23.237.102.34:25461/dalvarez/UxUuTfE2XG/1263?token=TBdRBxBZRAoVVgdQAwFXAgFTBgAABw9aAgZQA1UBUlMAUVtTVwNSVAEVGkFEQUZTWFtuUFFBAlICVVcdFUFEUEVqUAJBC0QBAgEHVAINFhobQlhUUEECUgVaUgUHDQ4NBBkbFgpVRAoVBgFXDwEWGhtTSU1QEVYCXDwAVEFdVFAVD1cTD11KElhZaQdSWFVYXRQLGwVBFEFZEBQTDVpCWVsZGwQKRRRRQ1IUWRUEBgMIFB0bVgxNDUQRHRMNFnRnFRkbAxtFA15EXlkNFQ8WQkoUHRtcEGcRVRAQQ1JVWlBFFwNEUxNKElpWTjxUWlpYXFVFUFoNS0EKQVcTGxZaWllcTQkRbhZZUxUMQQQNDQILFEw=
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Los Simpson 24/7
+http://62.210.202.9:25461/dalvarez/UxUuTfE2XG/3648?token=TBdRBxBZRAoVAwFTB1FRAgtUU1sAAV1WUlcFBQVRUgMPVgFSBQVVAA4VGkFEQUZTWFtuUFFBAlAGV1wdFUFEUEVqUAJBC0QBAgEHVAINFhobQlhUUEECUgVaUgUGBAMGDhkbFgpVRAoVBAZXBA0WGhtTSU1QEVYCXDwAVEFdVFAVD1cTD11KElhZaQdSWFVYXRQLGwVBFEFZEBQTDVpCWVsZGwQKRRRRQ1IUWRUEBQYLFB0bVgxNDUQRHRMNFnRnFRkbAxtFA15EXlkNFQ8WQkoUHRtcEGcRVRAQQ1JVWlBFFwNEUxNKElpWTjxUWlpYXFVFUFoNS0EKQVcTGxZaWllcTQkRbhZZUxUMQQYCAQELFEw=
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Cantinflas 24/7
+http://premiumplustv.xyz:25461/dalvarez/UxUuTfE2XG/3652
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Chespirito 24/7
+http://50.7.78.178:25461/dalvarez/UxUuTfE2XG/3653?token=TBdRBxBZRAoVBFMHVgIFAV1SVQ4DU1xRA1IHBw4FA1cBAVpSWwVWVAQVGkFEQUZTWFtuUFFBAlAGVlcdFUFEUEVqUAJBC0QBAgEHVAINFhobQlhUUEECUgVaUgUGBAENBxkbFgpVRAoVBgZVAwAWGhtTSU1QEVYCXDwAVEFdVFAVD1cTD11KElhZaQdSWFVYXRQLGwVBFEFZEBQTDVpCWVsZGwQKRRRRQ1IUWRUNDAcbGhNaWhZWF0IaRgsVd2UXGxdcHhdUCENeWFhBDRdARRsaE1BGPEoGQxcWVFZZUkcVDxtWQR1EXVZPaQBYW1pTWkJYVlsQGlkSUEYdFVlYW15BVhQ8QQ9UFQ0UUgcBAQYbSw==
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Discovery Channel
+http://23.237.88.133:25461/dalvarez/UxUuTfE2XG/7915?token=TBdRBxBZRAoVVVVbAAcMBQkACQFTUlpVA1QAUwQEBw1RBloABQQDBg4VGkFEQUZTWFtuUFFBAlQJUlEdFUFEUEVqUAJBC0QBAgEHVAINFhobQlhUUEECUgVaUgUGBA4EAhkbFgpVRAoVBgdRAAYWGhtTSU1QEVYCXDwAVEFdVFAVD1cTD11KElhZaQdSWFVYXRQLGwVBFEFZEBQTDVpCWVsZGwQKRRRRQ1IUWRUGBQIOFB0bVgxNDUQRHRMNFnRnFRkbAxtFA15EXlkNFQ8WQkoUHRtcEGcRVRAQQ1JVWlBFFwNEUxNKElpWTjxUWlpYXFVFUFoNS0EKQVcTGxZaWllcTQkRbhZZUxUMQQQEBA4NFEw=
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", History
+http://23.237.88.133:25461/dalvarez/UxUuTfE2XG/7925?token=TBdRBxBZRAoVUVJWBlYDU1tXAlgCVQoHCFNQV1RWBQZSVw0HBwNQAgAVGkFEQUZTWFtuUFFBAlQJUVEdFUFEUEVqUAJBC0QBAgEHVAINFhobQlhUUEECUgVaUgUGBQMFBBkbFgpVRAoVBgRXAgUWGhtTSU1QEVYCXDwAVEFdVFAVD1cTD11KElhZaQdSWFVYXRQLGwVBFEFZEBQTDVpCWVsZGwQKRRRRQ1IUWRUGDAYAFB0bVgxNDUQRHRMNFnRnFRkbAxtFA15EXlkNFQ8WQkoUHRtcEGcRVRAQQ1JVWlBFFwNEUxNKElpWTjxUWlpYXFVFUFoNS0EKQVcTGxZaWllcTQkRbhZZUxUMQQUMAQAAFEw=
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Studio Universal
+http://premiumplustv.xyz:25461/dalvarez/UxUuTfE2XG/2771
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Fox Action
+http://23.237.102.34:25461/dalvarez/UxUuTfE2XG/1236?token=TBdRBxBZRAoVAFAFVFcHVQ8ACAhUUAwHVVJdBlUMUgICAF1SB1IACVEVGkFEQUZTWFtuUFFBAlICUFIdFUFEUEVqUAJBC0QBAgEHVAINFhobQlhUUEECUgVaUgUGBQAHARkbFgpVRAoVBQZQDgQWGhtTSU1QEVYCXDwAVEFdVFAVD1cTD11KElhZaQdSWFVYXRQLGwVBFEFZEBQTDVpCWVsZGwQKRRRRQ1IUWRUEAAQNFB0bVgxNDUQRHRMNFnRnFRkbAxtFA15EXlkNFQ8WQkoUHRtcEGcRVRAQQ1JVWlBFFwNEUxNKElpWTjxUWlpYXFVFUFoNS0EKQVcTGxZaWllcTQkRbhZZUxUMQQQCDAcBFEw=
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Fox Comedy
+http://23.237.102.34:25461/dalvarez/UxUuTfE2XG/1243?token=TBdRBxBZRAoVUg5WBldQAFsABwsMVg5WVlpcAwEABFZTUwBRWgkCAQYVGkFEQUZTWFtuUFFBAlICV1cdFUFEUEVqUAJBC0QBAgEHVAINFhobQlhUUEECUgVaUgUGBQ8GDhkbFgpVRAoVBg5RDwQWGhtTSU1QEVYCXDwAVEFdVFAVD1cTD11KElhZaQdSWFVYXRQLGwVBFEFZEBQTDVpCWVsZGwQKRRRRQ1IUWRUEAAQBFB0bVgxNDUQRHRMNFnRnFRkbAxtFA15EXlkNFQ8WQkoUHRtcEGcRVRAQQ1JVWlBFFwNEUxNKElpWTjxUWlpYXFVFUFoNS0EKQVcTGxZaWllcTQkRbhZZUxUMQQQNAwAPFEw=
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Fox Movies
+http://23.237.102.34:25461/dalvarez/UxUuTfE2XG/1245?token=TBdRBxBZRAoVUVIAAwMGBQxVAw8CUw1UUwAFB1UEBgcFB1xfBlMFBAAVGkFEQUZTWFtuUFFBAlICV1EdFUFEUEVqUAJBC0QBAgEHVAINFhobQlhUUEECUgVaUgUGBQ4DBBkbFgpVRAoVBgdWAgYWGhtTSU1QEVYCXDwAVEFdVFAVD1cTD11KElhZaQdSWFVYXRQLGwVBFEFZEBQTDVpCWVsZGwQKRRRRQ1IUWRUEBgQAFB0bVgxNDUQRHRMNFnRnFRkbAxtFA15EXlkNFQ8WQkoUHRtcEGcRVRAQQ1JVWlBFFwNEUxNKElpWTjxUWlpYXFVFUFoNS0EKQVcTGxZaWllcTQkRbhZZUxUMQQQNAw4BFEw=
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Disney Channel
+http://premiumplustv.xyz:25461/dalvarez/UxUuTfE2XG/1085
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Boomerang
+http://23.237.88.133:25461/dalvarez/UxUuTfE2XG/1589?token=TBdRBxBZRAoVAQQHBgQMVQECAAgFVQgCAwAFUAYFDwQHDAEDUAJQVAYVGkFEQUZTWFtuUFFBAlIFW10dFUFEUEVqUAJBC0QBAgEHVAINFhobQlhUUEECUgVaUgUGBw4MAhkbFgpVRAoVBQdaAwcWGhtTSU1QEVYCXDwAVEFdVFAVD1cTD11KElhZaQdSWFVYXRQLGwVBFEFZEBQTDVpCWVsZGwQKRRRRQ1IUWRUABAULFB0bVgxNDUQRHRMNFnRnFRkbAxtFA15EXlkNFQ8WQkoUHRtcEGcRVRAQQ1JVWlBFFwNEUxNKElpWTjxUWlpYXFVFUFoNS0EKQVcTGxZaWllcTQkRbhZZUxUMQQMCDAAbSw==
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Cartoon Network
+http://premiumplustv.xyz:25461/dalvarez/UxUuTfE2XG/1083
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Canal Sony
+http://163.172.6.21:25461/dalvarez/UxUuTfE2XG/6436?token=TBdRBxBZRAoVAQ5RUgMHBV8OBggNUFlRVVAHVA4EBlMPUAgEAlNRCA8VGkFEQUZTWFtuUFFBAlUEUFIdFUFEUEVqUAJBC0QBAgEHVAINFhobQlhUUEECUgVaUgUGAAQFBhkbFgpVRAoVBQRQAAMWGhtTSU1QEVYCXDwAVEFdVFAVD1cTD11KElhZaQdSWFVYXRQLGwRBFEFZEBQTDVpCWVsZGwQKRRRRQ1IUWVlAWFoVFFJWQA1MEUlBXhN0ZhUZFVBBEgZfFVlYWRRZFUFHFBUUWEpqEV0QRBEBUFpRRRcNFwlETxMLUU9oVQxZW1FVTV9eV0ZBAkEDQUgTWltZXENaSzkTWAISDRUEUg4GBRRE
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", SyFy
+http://premiumplustv.xyz:25461/dalvarez/UxUuTfE2XG/17596
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Discovery H&h
+http://23.237.88.133:25461/dalvarez/UxUuTfE2XG/7917?token=TBdRBxBZRAoVDwZaBVcGUAwECA4BWgAHUVtXCQ8GDwABAV0AV1dSAgEVGkFEQUZTWFtuUFFBAlQJUlMdFUFEUEVqUAJBC0QBAgEHVAINFhobQlhUUEECUgVaUgUGAAIBBhkbFgpVRAoVBARWBQQWGhtTSU1QEVYCXDwAVEFdVFAVD1cTD11KElhZaQdSWFVYXRQLGwVBFEFZEBQTDVpCWVsZGwQKRRRRQ1IUWRUGAQMNFB0bVgxNDUQRHRMNFnRnFRkbAxtFA15EXlkNFQ8WQkoUHRtcEGcRVRAQQ1JVWlBFFwNEUxNKElpWTjxUWlpYXFVFUFoNS0EKQVcTGxZaWllcTQkRbhZZUxUMQQUMAA8JFEw=
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", National Geographic
+http://23.237.88.133:25461/dalvarez/UxUuTfE2XG/991?token=TBdRBxBZRAoVVQZVVAVSDgwDUlxXUV0CAgBUUAYCUQADVA4HAgVVBAYVGkFEQUZTWFtuUFFBAloJUkgTQkdSR2hcXURZE1cFAQYBVg8XGBRNX1xcF1kJVglVUAADAgUBGxdJDwcTXBIFAgJVBRcYFFxORVxHDVkPbwcBR15XUhcNW0wKDx1EX1loUgZaVFpSGwwTCRdPGgpDE0YLWUFbWRsXWw8XQwdEUhUMQQUBBQ8bGhNaWhZWF0IaRgsVd2UXGxdcHhdUCENeWFhBDRdARRsaE1BGPEoGQxcWVFZZUkcVDxtWQR1EXVZPaQBYW1pTWkJYVlsQGlkSUEYdFVlYW15BVhQ8QQ9UFQ0UUQ4HBwcbSw==
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Warner Bros HD
+http://premiumplustv.xyz:25461/dalvarez/UxUuTfE2XG/41349
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Lifetime
+http://23.237.88.133:25461/dalvarez/UxUuTfE2XG/1017?token=TBdRBxBZRAoVU1BXBAUCBloFBQ9TWw1UUVZRUgcFBwQGUVtQW1VfVVUVGkFEQUZTWFtuUFFBAlIAUlMdFUFEUEVqUAJBC0QBAgEHVAINFhobQlhUUEECUgVaUgUGAA4NBxkbFgpVRAoVBQJXAhcYFFxORVxHDVkPbwcBR15XUhcNW0wKDx1EX1loUgZaVFpSGwwTCRdPGgpDE0YLWUFbWRsXWw8XQwdEUhUMQQMMDQIbGhNaWhZWF0IaRgsVd2UXGxdcHhdUCENeWFhBDRdARRsaE1BGPEoGQxcWVFZZUkcVDxtWQR1EXVZPaQBYW1pTWkJYVlsQGlkSUEYdFVlYW15BVhQ8QQ9UFQ0UUQ4GDQQbSw==
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", AXN
+http://23.237.102.34:25461/dalvarez/UxUuTfE2XG/1232?token=TBdRBxBZRAoVBlNWDgRVAV1SAF0FWlpQBlZWB1UCBgdRBgkCUAJfVg4VGkFEQUZTWFtuUFFBAlICUFYdFUFEUEVqUAJBC0QBAgEHVAINFhobQlhUUEECUgVaUgUGAQYGBhkbFgpVRAoVBQFUAAIWGhtTSU1QEVYCXDwAVEFdVFAVD1cTD11KElhZaQdSWFVYXRQLGwVBFEFZEBQTDVpCWVsZGwQKRRRRQ1IUWRUEBgMKFB0bVgxNDUQRHRMNFnRnFRkbAxtFA15EXlkNFQ8WQkoUHRtcEGcRVRAQQ1JVWlBFFwNEUxNKElpWTjxUWlpYXFVFUFoNS0EKQVcTGxZaWllcTQkRbhZZUxUMQQQCAw8NFEw=
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", AMC
+http://23.237.102.34:25461/dalvarez/UxUuTfE2XG/999?token=TBdRBxBZRAoVVgUFVgBVAgkPUwkBAgsBBFoBBgYHUQYOAAhUUAdUAQQVGkFEQUZTWFtuUFFBAloJWkgTQkdSR2hcXURZE1cFAQYBVg8XGBRNX1xcF1kJVglVUAACBgYMGxdJDwcTXBIEAAVTBBcYFFxORVxHDVkPbwcBR15XUhcNW0wKDx1EX1loUgZaVFpSGwwTCRdPGgpDE0YLWUFbWRsXWw8XQwdEUhUMQQYDAAUbGhNaWhZWF0IaRgsVd2UXGxdcHhdUCENeWFhBDRdARRsaE1BGPEoGQxcWVFZZUkcVDxtWQR1EXVZPaQBYW1pTWkJYVlsQGlkSUEYdFVlYW15BVhQ8QQ9UFQ0UUAACAAEbSw==
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", FX
+http://premiumplustv.xyz:25461/dalvarez/UxUuTfE2XG/353
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Animal Planet
+http://premiumplustv.xyz:25461/dalvarez/UxUuTfE2XG/969
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Nickelodeon
+http://premiumplustv.xyz:25461/dalvarez/UxUuTfE2XG/1093
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Nick 2
+http://premiumplustv.xyz:25461/dalvarez/UxUuTfE2XG/1091
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Disney XD HD
+http://premiumplustv.xyz:25461/dalvarez/UxUuTfE2XG/1087
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", HBO HD
+http://premiumplustv.xyz:25461/dalvarez/UxUuTfE2XG/1252
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Movistar Estrenos
+http://premiumplustv.xyz:25461/dalvarez/UxUuTfE2XG/640
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", De Película(Cantinflas)
+http://premiumplustv.xyz:25461/dalvarez/UxUuTfE2XG/3441
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", De Película Plus
+http://premiumplustv.xyz:25461/dalvarez/UxUuTfE2XG/1043
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TCM
+http://premiumplustv.xyz:25461/dalvarez/UxUuTfE2XG/1262
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Fox Series HD
+http://premiumplustv.xyz:25461/dalvarez/UxUuTfE2XG/1246
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Fox Family HD
+http://23.237.102.34:25461/dalvarez/UxUuTfE2XG/1244?token=TBdRBxBZRAoVUwBSU1FVVVsGAwBUAQ5UBlpUUwRXBABSAwxeW1RUUwAVGkFEQUZTWFtuUFFBAlICV1AdFUFEUEVqUAJBC0QBAgEHVAINFhobQlhUUEECUgVaUgUGAgQGABkbFgpVRAoVBg9UBgAWGhtTSU1QEVYCXDwAVEFdVFAVD1cTD11KElhZaQdSWFVYXRQLGwVBFEFZEBQTDVpCWVsZGwQKRRRRQ1IUWRUEBwIPFB0bVgxNDUQRHRMNFnRnFRkbAxtFA15EXlkNFQ8WQkoUHRtcEGcRVRAQQ1JVWlBFFwNEUxNKElpWTjxUWlpYXFVFUFoNS0EKQVcTGxZaWllcTQkRbhZZUxUMQQQNAwEMFEw=
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Cinecanal
+http://premiumplustv.xyz:25461/dalvarez/UxUuTfE2XG/1233
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Cinemax
+http://premiumplustv.xyz:25461/dalvarez/UxUuTfE2XG/1216
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Paramount Channel
+http://premiumplustv.xyz:25461/dalvarez/UxUuTfE2XG/1019
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Cinema Dinamita
+http://23.237.102.34:25461/dalvarez/UxUuTfE2XG/1265?token=TBdRBxBZRAoVBwBaVQJWA1sBCAECVQ1RCQdSVAEBBQwFDQhWV1VSUQ4VGkFEQUZTWFtuUFFBAlICVVEdFUFEUEVqUAJBC0QBAgEHVAINFhobQlhUUEECUgVaUgUGAgEFBRkbFgpVRAoVBgZXBgwWGhtTSU1QEVYCXDwAVEFdVFAVD1cTD11KElhZaQdSWFVYXRQLGwVBFEFZEBQTDVpCWVsZGwQKRRRRQ1IUWRUEBA8JFB0bVgxNDUQRHRMNFnRnFRkbAxtFA15EXlkNFQ8WQkoUHRtcEGcRVRAQQ1JVWlBFFwNEUxNKElpWTjxUWlpYXFVFUFoNS0EKQVcTGxZaWllcTQkRbhZZUxUMQQQNDQMLFEw=
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Golden Edge
+http://premiumplustv.xyz:25461/dalvarez/UxUuTfE2XG/1251
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", HBO Family
+http://premiumplustv.xyz:25461/dalvarez/UxUuTfE2XG/1255
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", Golden Premiere
+http://premiumplustv.xyz:25461/dalvarez/UxUuTfE2XG/1062
+
